@@ -1,4 +1,4 @@
-# 📘 Tesis de Maestría en Estadistica Aplicada UDENAR 2026
+# 📘 Tesis de Maestría en Estadística Aplicada UDENAR 2026
 Transferencia de Conocimiento Universidad–Regiones en Colombia
 
 ## 📌 Descripción
