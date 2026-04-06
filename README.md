@@ -46,5 +46,6 @@ Base de datos del estudio.
 
 ---
 
-## 👤 Autor
-Tesis de Maestría
+## 👤 Autores
+Melo Arturo
+Mora Brayan
