@@ -47,5 +47,5 @@ Base de datos del estudio.
 ---
 
 ## 👤 Autores
-Melo Arturo
-Mora Brayan
+- Melo Arturo
+- Mora Brayan
